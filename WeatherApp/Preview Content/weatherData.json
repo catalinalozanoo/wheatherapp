@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -99.152,
+        "lat": 19.486
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 298.71,
+        "feels_like": 298.05,
+        "temp_min": 298.1,
+        "temp_max": 299.31,
+        "pressure": 1025,
+        "humidity": 28
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.57,
+        "deg": 110
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1693339881,
+    "sys": {
+        "type": 2,
+        "id": 2040357,
+        "country": "MX",
+        "sunrise": 1693311651,
+        "sunset": 1693356887
+    },
+    "timezone": -21600,
+    "id": 3519646,
+    "name": "San Bartolo Atepehuacán",
+    "cod": 200
+}
